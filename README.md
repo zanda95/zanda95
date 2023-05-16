@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zana Darwish</h1>
-<h3 align="center">I am a student in Information Systems with a passion for utilizing technology to solve problems and make a positive impact on human lives. My journey in the field has equipped me with a strong proficiency in Python, SQL, and Tableau. I constantly strive to deepen my knowledge and stay up-to-date with the latest advancements in these technologies. With a firm belief in the power of technology to drive innovation, I am eager to contribute to projects that drive meaningful change. Let's connect and collaborate on exciting ventures!</h3>
+<h1 align="left">Hi 👋, I'm Zana Darwish</h1>
+<h3 align="left">I am a student in Information Systems with a passion for utilizing technology to solve problems and make a positive impact on human lives. My journey in the field has equipped me with a strong proficiency in Python, SQL, and Tableau. I constantly strive to deepen my knowledge and stay up-to-date with the latest advancements in these technologies. With a firm belief in the power of technology to drive innovation, I am eager to contribute to projects that drive meaningful change. Let's connect and collaborate on exciting ventures!</h3>
 
 - 👨‍💻 All of my projects are available at [https://zana.webador.com/](https://zana.webador.com/)
 
