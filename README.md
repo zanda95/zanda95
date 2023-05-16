@@ -24,7 +24,7 @@ As a business-oriented Information Systems student and data analyst, I am passio
  
   
 <a href="https://zana.webador.com/">
-  <img alt="Website" title="Website" src="https://img.shields.io/badge/website-FFA500?style=for-the-badge&logo=website&logoColor=white"/>
+  <img alt="Website" title="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 </a>
         
