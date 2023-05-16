@@ -1,21 +1,37 @@
 <h1 align="left"> Zana Darwish</h1>
-<h3 align="left">Business-Oriented Information Systems Student and Data Analyst</h2>
-</div>
+
+
+`Business-Oriented Information Systems Student and Data Analyst`
 
 </h2>
 
 As a business-oriented Information Systems student and data analyst, I am passionate about utilizing technology to solve problems and make a positive impact on human lives. My journey in the field has equipped me with a strong proficiency in Python, SQL, and Tableau, enabling me to analyze and interpret data effectively. I am constantly striving to deepen my knowledge and stay up-to-date with the latest advancements in these technologies. With a firm belief in the power of technology to drive innovation, I am eager to contribute to projects that drive meaningful change. Let's connect and collaborate on exciting ventures!
 
-<h1 align="left"></h1>
+
+   
 
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zanadarwish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zanadarwish" height="30" width="40" /></a>
-<a href="https://fb.com/zanadarwish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zanadarwish" height="30" width="40" /></a>
-<a href="mailto:zanadarwish1@gmail.com" target="blank"><img align="center" src="https://www.gstatic.com/images/icons/material/product/2x/gmail_48dp.png" alt="zanadarwish" height="40" width="40" /></a>
-<a href="https://zana.webador.com/" target="blank"><img align="center" src="world-wide-web.png" alt="zanadarwish" height="36" width="36" /></a>
+      <a href="https://linkedin.com/in/zanadarwish">
+         <img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ 
+  <a href="https://www.facebook.com/profile.php?id=100008431247472">
+         <img alt="Facebook" title="My Facebook" src="https://img.shields.io/badge/facebook-0077B5?color=236ad3&style=for-the-badge&logo=facebook&logoColor=white"/></a> 
+
+ <a href="mailto:zanadarwish1@gmail.com">
+  <img alt="Gmail" title="Email me" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+ 
+  
+<a href="https://zana.webador.com/">
+  <img alt="Website" title="Website" src="https://img.shields.io/badge/website-FFA500?style=for-the-badge&logo=website&logoColor=white"/>
+</a>
+</a>
+        
+   </p>
+
+
+
 
 </a>
 
